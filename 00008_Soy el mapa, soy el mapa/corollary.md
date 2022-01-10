@@ -1,0 +1,1 @@
+¡Excelente! :clap: Ahora ya sabemos cómo transformar cada elemento de una lista para obtener una lista nueva :muscle:. De esta manera podemos usar `promedio` con nuestra lista de balances. Pero, ¿se puede utilizar la función `promedio` solo para los balances positivos? :thought_balloon:

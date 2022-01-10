@@ -1,0 +1,1 @@
+Podés usar la función `ganancias` que hiciste antes :wink:. Tené en cuenta que va a estar tal y como vos la definiste, por lo que si tiene errores, pueden impactar en tu solución actual. :eyes:

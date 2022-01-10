@@ -1,0 +1,9 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_tests_failed:
+    - balancesPositivos no debe devolver una lista de numeros
+  then: "`balancesPositivos` tiene que devolver los _balances_, no las _ganancias_;
+    en otras palabras tenés que retornar una lista de registros, pero estás devolviendo
+    una lista de números"

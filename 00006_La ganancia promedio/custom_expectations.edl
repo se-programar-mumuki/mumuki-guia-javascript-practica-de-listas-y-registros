@@ -1,0 +1,2 @@
+expectation "Para resolver este ejercicio recordá que contás con `longitud`.":
+  calls `longitud` || uses size

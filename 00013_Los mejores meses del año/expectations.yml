@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: mesesAfortunados
+  inspection: Uses:meses
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: mesesAfortunados
+  inspection: Uses:afortunados
